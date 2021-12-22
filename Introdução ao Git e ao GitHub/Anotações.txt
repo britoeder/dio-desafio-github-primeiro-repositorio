@@ -1,1 +1,0 @@
-O Git Bach é um terminal extendido para otimizar o uso do git.
